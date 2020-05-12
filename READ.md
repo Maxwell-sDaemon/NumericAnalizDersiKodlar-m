@@ -1,0 +1,1 @@
+numerik analiz kodları derterminant alma - lisini alıyor ve jacobi iterasyonu debug edilmeli.
